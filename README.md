@@ -1,0 +1,1 @@
+This repository contain all the codecademy related code, you can read my solution and if you like it you can clone it. Feel free to give input my twitter @sanieksm
